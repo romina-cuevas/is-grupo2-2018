@@ -1,0 +1,28 @@
+/* E X T R A S */
+
+.panel{
+	width: 900px;
+	height: 500px;
+}
+
+  .style{
+    padding: 15px 50px; 
+  }
+
+  #admin{
+    background: #343a40;
+  }
+
+
+  .icon{
+    width: 90px;
+    height: 90px;
+  }
+
+  .heading-section {
+    padding-bottom: 1em;
+    margin-bottom: 0em;
+  }
+  h5{
+    color: white;
+  }
